@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Hack for geoguessr (for my own interest only, cheating online isn't fun for anyone)
 // @author       Rosco5555
-// @match        https://www.geoguessr.com/game/I3O8hgLMaqBFt9SE
+// @match        https://www.geoguessr.com/game/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geoguessr.com
 // @grant        none
 // ==/UserScript==
